@@ -2,11 +2,11 @@
 
 ## Como compilar um programa Java
 
-```java
+```bash
 javac OlaMundo.java
 ```
 ## Usando gradle
-```gradle
+```bash
 chmod 755 gradlew
 ./gradlew build
 ```
