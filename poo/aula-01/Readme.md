@@ -2,13 +2,17 @@
 
 ## Como compilar um programa Java
 
+```java
+javac OlaMundo.java
 ```
-javac olamundo.java
-
+## Usando gradle
+```gradle
+chmod 755 gradlew
+./gradlew build
 ```
 ## Como executar um programa Java
 
 ```
-java olamundo
+java OlaMundo
 
 ```
