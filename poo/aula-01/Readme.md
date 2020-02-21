@@ -8,7 +8,8 @@ javac olamundo.java
 ```
 ## Como executar um programa Java
 
-```
-java olamundo
+### Usando java
+```java
+java OlaMundo
 
 ```
